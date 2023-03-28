@@ -69,7 +69,7 @@ True                    #boolean value 1
 False                   #boolean value 0
 None                    #null
 'b'                     #characters
-'buy'                   #strings
+"buy"                   #strings
 '''this is a doc string
 it will save with this exact format when assign to variable
 but can also be use as a multi line comments like this
